@@ -1,0 +1,37 @@
+# Applications
+*.exe
+
+# Incremental Linker Files
+*.ilk
+
+# Program Debug Databases
+*.pdb
+*.ipdb
+
+# SQL Database Files
+*.sdf
+*.opensdf
+*.db
+*.opendb
+
+# Visual Studio Solution User Options
+*.suo
+
+# Visual Studio Project User Options
+*.vcxproj.user
+
+# Object Files
+*.obj
+*.iobj
+
+# Log Files
+*.log
+*.tlog
+*.lastbuildstate
+
+# Compiled Resource Scripts
+*.res
+*.aps
+
+# Dependency Files
+*.idb
